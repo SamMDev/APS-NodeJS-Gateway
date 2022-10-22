@@ -1,0 +1,10 @@
+{
+  "name": "serail-port-arduino-reader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.81.0",
+    "serialport": "9.0.1"
+  }
+}
